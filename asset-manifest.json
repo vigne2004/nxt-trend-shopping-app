@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/nxt-trend-shopping-app/static/css/main.864feaf7.chunk.css",
+    "main.js": "/nxt-trend-shopping-app/static/js/main.74d038e4.chunk.js",
+    "main.js.map": "/nxt-trend-shopping-app/static/js/main.74d038e4.chunk.js.map",
+    "runtime-main.js": "/nxt-trend-shopping-app/static/js/runtime-main.e6ea24cd.js",
+    "runtime-main.js.map": "/nxt-trend-shopping-app/static/js/runtime-main.e6ea24cd.js.map",
+    "static/js/2.d2671b75.chunk.js": "/nxt-trend-shopping-app/static/js/2.d2671b75.chunk.js",
+    "static/js/2.d2671b75.chunk.js.map": "/nxt-trend-shopping-app/static/js/2.d2671b75.chunk.js.map",
+    "index.html": "/nxt-trend-shopping-app/index.html",
+    "static/css/main.864feaf7.chunk.css.map": "/nxt-trend-shopping-app/static/css/main.864feaf7.chunk.css.map",
+    "static/js/2.d2671b75.chunk.js.LICENSE.txt": "/nxt-trend-shopping-app/static/js/2.d2671b75.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6ea24cd.js",
+    "static/js/2.d2671b75.chunk.js",
+    "static/css/main.864feaf7.chunk.css",
+    "static/js/main.74d038e4.chunk.js"
+  ]
+}
